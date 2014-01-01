@@ -5,25 +5,33 @@ MobyTools is a [MobyGames](http://mobygames.com) user script collection, aimed t
 ### Fixed sidebar
 
 Pins down left sidebar so it will always stay in view no matter how far page's scrolled.
+
 **[INSTALL](https://raw.github.com/klaster1/mobytools/master/mt.sidebar.user.js)**
 
 ### Sidebar links
 
 Adds custom links into sidebar.
+
 ![Sidebar links preview](https://raw.github.com/klaster1/mobytools/master/screenshots/sidebar-links.png)
+
 **[INSTALL](https://raw.github.com/klaster1/mobytools/master/mt.sidebar-links.user.js)**
 
 ### Editor buttons
 
 Adds visual editing buttons for text areas.
+
 ![Editor buttons preview](https://raw.github.com/klaster1/mobytools/master/screenshots/editor.png)
+
 **[INSTALL](https://raw.github.com/klaster1/mobytools/master/mt.editor.user.js)**
 
 ## Installation
 
 ### Firefox
+
 Install [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) or other compatible extension, open script link.
+
 ### Chrome
+
 Download script, open [chrome://extension](chrome://extensions/), drop it there.
 
 ## Browser suppot
