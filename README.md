@@ -24,6 +24,16 @@ Adds visual editing buttons for text areas.
 
 **[INSTALL](https://raw.github.com/klaster1/mobytools/master/mt.editor.user.js)**
 
+### Posts
+
+Forum post improvements (threaded mode only):
+
+* Adds permalink to post header.
+* Automatically scrolls to first new post.
+* Navigation between posts with **J** (next), **K** (previous), **B** (current).
+
+**[INSTALL](https://raw.github.com/klaster1/mobytools/master/mt.posts.user.js)**
+
 ## Installation
 
 ### Firefox
