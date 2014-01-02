@@ -21,14 +21,14 @@
 		var goTo = function (array, direction) {
 			if (!array || !array.length || !array[0]) return;
 
-			var i = all.map(function (a) {return a.hash}).indexOf(location.hash);
+			var i = array.map(function (a) {return a.hash}).indexOf(location.hash);
 
 			switch (direction) {
 				case "next":
-					i = all.length - 1 === i ? 0 : i + 1;
+					i = array.length - 1 === i ? 0 : i + 1;
 					break;
 				case "prev":
-					i = i === 0 ? all.length - 1 : i - 1;
+					i = i === 0 ? array.length - 1 : i - 1;
 					break;
 				case "first":
 					i = 0;

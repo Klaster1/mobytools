@@ -30,7 +30,7 @@ Forum post improvements (threaded mode only):
 
 * Adds permalink to post header.
 * Automatically scrolls to first new post.
-* Navigation between posts with **J** (next), **K** (previous), **B** (current).
+* Navigation between posts with **J** (next), **K** (previous), **B** (current) and **Shift** as modifier for new ones.
 
 **[INSTALL](https://raw.github.com/klaster1/mobytools/master/mt.posts.user.js)**
 
