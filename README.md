@@ -40,10 +40,10 @@ Forum post improvements (threaded mode only):
 
 Install [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) or other compatible extension, open script link.
 
-### Chrome
+### Chrome, Opera (Blink)
 
-Download script, open [chrome://extension](chrome://extensions/), drop it there.
+Install Tampermonkey ([Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), [Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta/?display=en)) open script link.
 
 ## Browser suppot
 
-All scripts are designed to work with Firefox and Chrome. Opera (both new and old) should probably work too.
+All scripts are designed to work with Firefox, Chrome and Opera (Blink). Old Presto Opera should probably work too.
